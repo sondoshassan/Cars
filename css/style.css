@@ -1,0 +1,41 @@
+body {
+   background-color: #B27FB2;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(102,0,102);
+    padding: 20px;
+    margin: 0;
+    color: hsl(60,100%,80%);
+}
+nav {
+    background-color: #934c93;
+    padding-top: 2px ;
+    margin: 0;
+}
+ul li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 500px;
+    float: left;
+    margin: 30px;
+    margin-top: 0;
+}
+div {
+     background-color: beige; 
+    display: block;
+    margin-left: 320px;
+}
+footer {
+    float: bottom;
+    margin-top: 200px;
+    text-align: center;
+}
