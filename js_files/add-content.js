@@ -6,6 +6,7 @@ else {
     document.write ('<h3>' + "hi sir" + '</h3>');
 }
 prompt ('enter your name');
-prompt ('enter your age','ex: 18');
+var color = prompt ('what do you want the background to be?','ex: black');
+document.body.style.backgroundColor = color;
 confirm ("please press button");
 alert ("hello world!");
