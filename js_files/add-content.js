@@ -5,6 +5,7 @@ if (gender == 'female') {
 else {
     document.write ('<h3>' + "hi sir" + '</h3>');
 }
-
+prompt ('enter your name');
+prompt ('enter your age','ex: 18');
 confirm ("please press button");
 alert ("hello world!");
