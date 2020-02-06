@@ -5,6 +5,10 @@ if (gender == 'female') {
 else {
     document.write ('<h3>' + "hi sir" + '</h3>');
 }
+prompt ("enter your name");
+prompt ("enter your age");
+confirm ("please press ok");
+alert ("have anice day");
 
 function time (){    
     //input 
@@ -25,7 +29,7 @@ function time (){    
              }
             var greeting = time(); //call the function
             document.write ('<h3>' + greeting + '</h3>');
-            
+
 var showOrder = function (){
     var orderPhoto = '';
     var order;
